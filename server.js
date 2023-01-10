@@ -23,7 +23,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 // once we deploy we will add the corsOption
 const corsOption = {
-  origin: ['http://localhost:3000', 'https://superuser.onrender.com'],
+  origin: ['http://localhost:3000', 'https://login-client2.onrender.com'],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
 };
