@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "id": "1",
+      "artist": "John Denver",
+      "song": "country roads"
+    },
+    {
+      "id": "2",
+      "artist": "queen",
+      "song": "bohemia"
+    },
+    {
+      "artist": "BurnedToast"
+    },
+    {
+      "id": "3",
+      "artist": "Test",
+      "song": "test2"
+    }
+  ]
+}
